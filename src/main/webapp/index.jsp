@@ -10,8 +10,15 @@
 <html>
   <head>
     <title>Product</title>
+    <style>
+      h1 {
+        color: red;
+      }
+    </style>
   </head>
   <body>
+  <h1>CHÚC MỪNG NĂM MỚI</h1>
+  <h1>Vạn sự như ý , tâm tưởng sự thành, mã đáo thành công</h1>
   <table>
     <tr>
       <th>ID</th>
